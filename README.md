@@ -48,7 +48,7 @@ Installation
 Clone the Repository:
 bash
 Copy
-git clone https://github.com/your-username/MoviePrime.git
+git clone https://github.com/ahsan668/MoviePrime.git
 cd MoviePrime
 Install Dependencies:
 bash
