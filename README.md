@@ -92,30 +92,48 @@ Code Overview
 Key Components
 
 API Service:
+
 Located in lib/api/.
 Handles API calls to fetch movie data (e.g., trending movies, popular movies).
+
 Constants:
 Located in lib/constants/.
 Stores app-wide constants such as colors, strings, and API keys.
+
 Models:
 Located in lib/models/.
 Defines data models (e.g., Movie).
+
 Screens:
 Located in lib/screens/.
+
 Includes:
 SplashScreen: The initial screen with animations.
+
 HomeScreen: Displays trending movies, popular movies, and categories.
+
 MovieDetailScreen: Shows detailed information about a selected movie.
+
 MovieListScreen: Displays a list of movies based on category.
+
+
 Widgets:
 Located in lib/widgets/.
+
 Includes reusable components such as:
+
 AppBarWidget: Custom app bar.
+
 MovieCard: Displays a movie poster and title.
+
 MovieSlider: A horizontal slider for displaying movies.
+
 CategoryTile: Displays movie categories.
+
 DynamicBackgroundWidget: A custom background widget for immersive UI.
+
 SeeAllButton: A button to navigate to the full list of movies.
+
 Contributing
 
 Contributions are welcome! If you'd like to contribute to MoviePrime, follow these steps:
